@@ -1,3 +1,2 @@
-dded feature 1
-master line added
-master line added from  git 
+master line added from  git new
+master line added from  git new
